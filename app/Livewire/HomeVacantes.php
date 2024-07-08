@@ -39,7 +39,7 @@ class HomeVacantes extends Component
         ->paginate(20);
 
         return view('livewire.home-vacantes', [
-            'vacantes' => $vacantes,
+            'vacantes' => $vacantesssssssssssssss,
         ]);
     }
 }
